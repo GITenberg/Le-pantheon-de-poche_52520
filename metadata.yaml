@@ -1,0 +1,29 @@
+_repo: Le-pantheon-de-poche_52520
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Véron, Pierre
+    alias: Veron, Pierre
+    birthdate: 1833
+    deathdate: 1900
+    gutenberg_agent_id: '46909'
+    url: http://www.gutenberg.org/2009/agents/46909
+description: ''
+gutenberg_bookshelf:
+- FR Littérature
+- FR Humour
+gutenberg_issued: '2016-07-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52520'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- Biography -- Anecdotes'
+- !lcsh 'France -- Biography -- Humor'
+- !lcc 'PQ'
+- GITenberg
+title: Le panthéon de poche
+url: http://www.gutenberg.org/ebooks/52520
